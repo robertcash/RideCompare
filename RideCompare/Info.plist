@@ -34,5 +34,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationUsageDescription</key>
+	<string>We need your location while using the app so we can get trip price estimates.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location while using the app so we can get trip price estimates.</string>
 </dict>
 </plist>

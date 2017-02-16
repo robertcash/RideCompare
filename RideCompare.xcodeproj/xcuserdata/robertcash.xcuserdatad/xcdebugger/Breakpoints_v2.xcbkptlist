@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideCompare/CompareViewController.swift"
+            timestampString = "508892275.173137"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "CompareViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideCompare.CompareViewController.resultImageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "RideCompare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertcash/Documents/RideCompare/RideCompare/CompareViewController.swift"
+                  timestampString = "508970049.096402"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideCompare.CompareViewController.resultImageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "RideCompare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertcash/Documents/RideCompare/RideCompare/CompareViewController.swift"
+                  timestampString = "508970049.098884"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideCompare.CompareViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; RideCompare.CompareViewController"
+                  moduleName = "RideCompare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertcash/Documents/RideCompare/RideCompare/CompareViewController.swift"
+                  timestampString = "508970049.101066"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideCompare.CompareViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;RideCompare.CompareViewController&gt;"
+                  moduleName = "RideCompare"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertcash/Documents/RideCompare/RideCompare/CompareViewController.swift"
+                  timestampString = "508970049.103204"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
