@@ -150,7 +150,6 @@ class CompareViewController: UIViewController {
 
 extension CompareViewController: CompareNetworking {
     func doComparison() {
-        //print("\((self.startLat!, self.startLng!))")
         PKHUD.sharedHUD.contentView = PKHUDProgressView()
         PKHUD.sharedHUD.show()
         
