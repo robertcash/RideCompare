@@ -4,7 +4,7 @@ Demo iOS app that compares if Lyft or Uber is cheaper given a destination. Backe
 
 ### How to Use
 
-Download the project, open "RideCompare.xcodeproj", get a Google API Key (Make an account at https://cloud.google.com and then go here https://console.cloud.google.com/apis/credentials then under "Create Credentials" select "API Key"), and fill it under Constants.swift at the following line:
+Download the project, open "RideCompare.xcodeproj", get a Google API Key (Make an account at https://cloud.google.com and then go here https://console.cloud.google.com/apis/credentials then under "Create Credentials" select "API Key", and lastly enable Google Place API for iOS, which can be found in Google search), and fill it under Constants.swift at the following line:
 
 ```
 let GOOGLE_API_KEY = "YOUR KEY HERE"
