@@ -1,4 +1,4 @@
-# Ridecompare
+# RideCompare
 
 Demo iOS app that compares if Lyft or Uber is cheaper given a destination. Backend for this project is here: https://github.com/robertcash/RideCompareBackend.
 
