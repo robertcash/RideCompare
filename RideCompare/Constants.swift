@@ -9,5 +9,5 @@
 import Foundation
 
 let API_URL = "https://ridecompare.herokuapp.com/"
-let GOOGLE_API_KEY = "AIzaSyBpF1Noy3sjpo6kNhWde0baLvCmSnQBiwI"
+let GOOGLE_API_KEY = "YOUR KEY HERE"
 
